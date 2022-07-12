@@ -1,0 +1,30 @@
+{
+	"success": true,
+	"goals": [
+		{
+			"goalId": "11541",
+			"memberId": "0032C00000dQkNCQA0",
+			"goalDescription": "Goal Description",
+			"goalCategoryCode": "Goal Category Code",
+			"createdDate": null,
+			"targetReviewDate": "2022-04-26T00:00:00.000Z",
+			"source": "Health Advisor",
+			"targetValue": 0,
+			"unitOfMeasure": "Unit of Measure",
+			"omId": null,
+			"startValue": 0,
+			"currentValue": 0,
+			"currentValueRecordedDate": "2022-02-01T18:25:55.734Z",
+			"notes": null,
+			"createdBy": "0050b000006WQOlAAO",
+			"modifiedBy": "0050b000006WQOlAAO",
+			"modifiedDate": null,
+			"endDate": null,
+			"calculatedTargetChange": 0,
+			"calculatedCurrentChange": 0,
+			"isAchieved": false,
+			"isLegacyData": false,
+			"isDeletable": true
+		}
+	]
+}

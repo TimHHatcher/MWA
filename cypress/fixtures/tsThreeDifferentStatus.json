@@ -1,0 +1,62 @@
+{
+	"success": true,
+	"tinySteps": [
+		{
+			"tinyStepId": "52919",
+			"actionDescription": "Current%20Tiny%20Step",
+			"prompt": "finish%20one%20time%20this%20week.",
+			"celebration": "sit%20in%20the%20shade%20one%20time!",
+			"createdDate": "2022-01-30T19:57:31+00:00",
+			"source": "Health Advisor",
+			"targetValue": 501,
+			"actualValue": null,
+			"endDate": null,
+			"notes": "Here are some notes",
+			"feedback": null,
+			"feedbackUserId": null,
+			"feedbackSentDate": null,
+			"isLegacyData": false,
+			"isAchieved": true,
+			"ordinalPosition": "1",
+			"ageInDays": 2
+		},
+		{
+			"tinyStepId": "52919",
+			"actionDescription": "Achieved%20Tiny%20Step%20But%20Not%20Complete",
+			"prompt": "finish%20two%20times%20this%20week.",
+			"celebration": "sit%20in%20the%20shade%20two%20times!",
+			"createdDate": "2022-01-23T19:57:31+00:00",
+			"source": "Health Advisor",
+			"targetValue": 5,
+			"actualValue": 3,
+			"endDate": "2022-01-30T19:57:31+00:00",
+			"notes": "Here are some notes",
+			"feedback": null,
+			"feedbackUserId": null,
+			"feedbackSentDate": null,
+			"isLegacyData": false,
+			"isAchieved": false,
+			"ordinalPosition": "1",
+			"ageInDays": 2
+		},
+		{
+			"tinyStepId": "52919",
+			"actionDescription": "Achieved%20And%20Completed%20Tiny%20Step",
+			"prompt": "finish%20three%20times%20this%20week.",
+			"celebration": "sit%20in%20the%20shade%20thrice%20times!",
+			"createdDate": "2022-01-16T19:57:31+00:00",
+			"source": "Health Advisor",
+			"targetValue": 5,
+			"actualValue": 5,
+			"endDate": "2022-01-23T19:57:31+00:00",
+			"notes": "Here are some notes",
+			"feedback": null,
+			"feedbackUserId": null,
+			"feedbackSentDate": null,
+			"isLegacyData": false,
+			"isAchieved": true,
+			"ordinalPosition": "1",
+			"ageInDays": 2
+		}
+	]
+}

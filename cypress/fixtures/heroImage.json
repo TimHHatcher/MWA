@@ -1,0 +1,8 @@
+{
+	"success": true,
+	"errorMessage": null,
+	"heroImageInfo": {
+		"heroImageUrl": "URL Value",
+		"heroImageAltText": "Default Alt Text"
+	}
+}

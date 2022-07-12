@@ -1,0 +1,62 @@
+{
+	"success": true,
+	"errorMessage": null,
+	"reflectionBanks": {
+		"IMPROVE_BANK": [
+			{
+				"tinyStepReflectionQuestionBankName": "improve_bank_1",
+				"tinyStepReflectionQuestionId": 4,
+				"sortOrder": 1,
+				"questionTextEnglish": "Here is bad question 1",
+				"questionTextSpanish": null,
+				"questionPrompts": [
+					"Bad Q1 Answer 1 ...",
+					"Bad Q1 Answer 2 ...",
+					"Bad Q1 Answer 3 ..."
+				],
+				"questionResponses": null
+			},
+			{
+				"tinyStepReflectionQuestionBankName": "improve_bank_1",
+				"tinyStepReflectionQuestionId": 5,
+				"sortOrder": 2,
+				"questionTextEnglish": "Here is bad question 2",
+				"questionTextSpanish": null,
+				"questionPrompts": [
+					"Bad Q2 Answer 1 ...",
+					"Bad Q2 Answer 2 ...",
+					"Bad Q2 Answer 3 ..."
+				],
+				"questionResponses": null
+			}
+		],
+		"CELEBRATE_BANK": [
+			{
+				"tinyStepReflectionQuestionBankName": "celebrate_bank_1",
+				"tinyStepReflectionQuestionId": 1,
+				"sortOrder": 1,
+				"questionTextEnglish": "Here is good question 1",
+				"questionTextSpanish": null,
+				"questionPrompts": [
+					"Good Q1 Answer 1 ...",
+					"Good Q1 Answer 2 ...",
+					"Good Q1 Answer 3 ..."
+				],
+				"questionResponses": null
+			},
+			{
+				"tinyStepReflectionQuestionBankName": "celebrate_bank_1",
+				"tinyStepReflectionQuestionId": 2,
+				"sortOrder": 2,
+				"questionTextEnglish": "Here is good question 2",
+				"questionTextSpanish": null,
+				"questionPrompts": [
+					"Good Q2 Answer 1 ...",
+					"Good Q2 Answer 2 ...",
+					"Good Q2 Answer 3 ..."
+				],
+				"questionResponses": null
+			}
+		]
+	}
+}

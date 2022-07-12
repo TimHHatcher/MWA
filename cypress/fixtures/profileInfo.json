@@ -1,0 +1,20 @@
+{
+	"success": true,
+	"errorMessage": null,
+	"profileInfo": {
+		"memberId": "0032C00000dQkNCQA0",
+		"diagnosisName": "Diagnosis Name",
+		"paymentDueDate": "2022-04-29T05:00:00.000Z",
+		"firstName": "PHSkip",
+		"lastName": "Member1",
+		"phone": null,
+		"birthdate": "2000-01-01",
+		"streetAddress": "1234 Test Drive",
+		"city": "Test City",
+		"state": "AL",
+		"zipcode": "12345",
+		"contactPreference": "Phone + MyPack Email + Text Nudges",
+		"mobilePhone": "1234567890",
+		"displayName": "Diagnosis Name"
+	}
+}

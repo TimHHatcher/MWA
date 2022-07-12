@@ -1,0 +1,102 @@
+{
+	"success": true,
+	"errorMessage": null,
+	"helpSection": [
+		{
+			"categoryTitle": "Category One",
+			"categoryIconURL": "\\assets\\images\\help-ts-icon.svg",
+			"categoryIconAltText": "Category One icon alternate text",
+			"categoryImageDescription": "Category one description.",
+			"categoryCreatedDate": "2022-05-06T18:07:57.468Z",
+			"questions": [
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category one question one body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category one question one?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category one question two body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category one question two?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category one question three body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category one question three?"
+				}
+			]
+		},
+		{
+			"categoryTitle": "Category Two",
+			"categoryIconURL": "\\assets\\images\\help-ts-icon.svg",
+			"categoryIconAltText": "Category Two icon alternate text",
+			"categoryImageDescription": "Category two description.",
+			"categoryCreatedDate": "2022-05-06T18:07:57.468Z",
+			"questions": [
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category two question one body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category two question one?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category two question two body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category two question two?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category two question three body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category two question three?"
+				}
+			]
+		},
+		{
+			"categoryTitle": "Category Three",
+			"categoryIconURL": "\\assets\\images\\help-ts-icon.svg",
+			"categoryIconAltText": "Category Three icon alternate text",
+			"categoryImageDescription": "Category three description.",
+			"categoryCreatedDate": "2022-05-06T18:07:57.468Z",
+			"questions": [
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category three question one body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category three question one?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category three question two body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category three question two?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category three question three body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category three question three?"
+				}
+			]
+		},
+		{
+			"categoryTitle": "Category Four",
+			"categoryIconURL": "\\assets\\images\\help-ts-icon.svg",
+			"categoryIconAltText": "Category Four icon alternate text",
+			"categoryImageDescription": "Category four description.",
+			"categoryCreatedDate": "2022-05-06T18:07:57.468Z",
+			"questions": [
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category four question one body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category four question one?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category four question two body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category four question two?"
+				},
+				{
+					"created_date": "2022-05-06T18:03:16.269+00:00",
+					"questionBody": "{\"data\": {}, \"content\": [{\"data\": {}, \"content\": [{\"data\": {}, \"marks\": [], \"value\": \"Category four question three body.\", \"nodeType\": \"text\"}], \"nodeType\": \"paragraph\"}], \"nodeType\": \"document\"}",
+					"questionTitle": "Category four question three?"
+				}
+			]
+		}
+	]
+}

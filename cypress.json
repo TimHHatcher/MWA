@@ -1,0 +1,37 @@
+{
+	"defaultCommandTimeout": 10000,
+	"viewportHeight": 1080,
+	"viewportWidth": 1920,
+	"reporter": "../node_modules/mochawesome/src/mochawesome.js",
+	"reporterOptions": {
+		"overwrite": false,
+		"html": false,
+		"json": true
+	},
+	"env": {
+		"enrolleduser": "tim.hatcher+qamember1@packhealth.com",
+		"newuser": "tim.hatcher+qamember3@packhealth.com",
+		"password": "Test123!",
+		"changeEmailAPIEndpoint": "**/user/change-email",
+		"coachingInfoAPIEndpoint": "**/coaching-info",
+		"codeAPIEndpoint": "**/send-reset-password-code",
+		"goalsAPIEndpoint": "**/goals",
+		"helpSectionAPIEndpoint": "**/help-section",
+		"heroImageAPIEndpoint": "**/hero-image/*",
+		"loginAPIEndpoint": "**/login",
+		"logoutAPIEndpoint": "**/user/logout",
+		"motdAPIEndpoint": "**/motivation-of-the-day",
+		"passwordResetAPIPostEndpoint": "**/user/submit-password-reset",
+		"preferencesAPIPostEndpoint": "**/member/*",
+		"profileInfoAPIEndpoint": "**/profile-info",
+		"rqbAPIEndpoint": "**/reflection-question-banks",
+		"tsrAPIEndpoint": "**/tiny-step-reflection",
+		"tsrAPIPostEndpoint": "**/tiny-step-reflection/*",
+		"tinyStepsAPIEndpoint": "**/tiny-steps",
+		"tinyStepsAPIPostEndpoint": "**/tiny-steps/*",
+		"verifyAPIEndpoint": "**/verify"
+	},
+	"video": false,
+	"screenshotOnRunFailure": false,
+	"ignoreTestFiles": []
+}

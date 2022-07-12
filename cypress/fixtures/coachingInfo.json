@@ -1,0 +1,19 @@
+{
+	"success": true,
+	"coachingInfo": {
+		"nextCallDate": null,
+		"currentLesson": "https://lesson-dev.packhealth.com/eyJtZW1iZXJJZCI6IjAwMzJDMDAwMDBiV1RHd1FBTyIsIm1vZHVsZUlkIjoiNTAwMkMwMDAwMEFhTnlDUUFWIiwibGVzc29uUGhsdWlkIjoiM0xTNUU5NUY5N0UwMERFNyIsInNob3VsZERpc3BsYXlTdXJ2ZXkiOnRydWUsIm9yaWdpbiI6InBhY2tfaGVhbHRoX3BvcnRhbCJ9",
+		"calendarURL": "https://phcalendar.com/8tm4o",
+		"coachName": "Firstname",
+		"coachPicture": "https://s3.amazonaws.com/packhealth.content/app_assets/advisors/Angelyse0055a000007wO7eAAE.jpg",
+		"coachBio": "Coaching Bio Information",
+		"coachPhone": "1234567890",
+		"coachEmail": "health.advisor@someemail.com",
+		"lessonTitle": "Lesson Title",
+		"coachLastName": "Lastname",
+		"nickname": "Nickname",
+		"engagementDOTW": "Tuesday",
+		"cadence": "Weekly",
+		"currentModuleStatus": "Status"
+	}
+}

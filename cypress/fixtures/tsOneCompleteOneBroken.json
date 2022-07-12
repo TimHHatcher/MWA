@@ -1,0 +1,43 @@
+{
+	"success": true,
+	"tinySteps": [
+		{
+			"tinyStepId": "52919",
+			"actionDescription": "Turn%20to%20the%20dark%20side%20of%20the%20Force",
+			"prompt": "defeat%20Master%20Yoda",
+			"celebration": "have%20a%20cool,%20red%20lightsaber!",
+			"createdDate": "2022-01-25T19:57:31+00:00",
+			"source": "Health Advisor",
+			"targetValue": 10,
+			"actualValue": null,
+			"endDate": "2022-01-25T19:57:31+00:00",
+			"notes": "Here are some notes",
+			"feedback": null,
+			"feedbackUserId": null,
+			"feedbackSentDate": null,
+			"isLegacyData": false,
+			"isAchieved": null,
+			"ordinalPosition": "1",
+			"ageInDays": 2
+		},
+		{
+			"tinyStepId": "52919",
+			"actionDescription": "I%20will%20walk%20500%20more",
+			"prompt": "walk%20500%20miles",
+			"celebration": "be%20the%20man%20who%20walked%20a%20thousand%20miles",
+			"createdDate": "2022-01-18T19:57:31+00:00",
+			"source": "Health Advisor",
+			"targetValue": 500,
+			"actualValue": null,
+			"endDate": "2022-01-25T19:57:31+00:00",
+			"notes": "Here are some notes",
+			"feedback": null,
+			"feedbackUserId": null,
+			"feedbackSentDate": null,
+			"isLegacyData": false,
+			"isAchieved": true,
+			"ordinalPosition": "1",
+			"ageInDays": 2
+		}
+	]
+}
